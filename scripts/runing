@@ -1,0 +1,4 @@
+python lab2.1.py /home/vova/vova/lab2/catalog ae
+python lab2.2.py /home/vova/vova/lab2/catalog
+./lab3.1.sh
+./lab3.2.sh
